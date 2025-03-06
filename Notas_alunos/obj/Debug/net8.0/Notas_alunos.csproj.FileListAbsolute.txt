@@ -1,0 +1,15 @@
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\bin\Debug\net8.0\Notas_alunos.exe
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\bin\Debug\net8.0\Notas_alunos.deps.json
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\bin\Debug\net8.0\Notas_alunos.runtimeconfig.json
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\bin\Debug\net8.0\Notas_alunos.dll
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\bin\Debug\net8.0\Notas_alunos.pdb
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\Notas_alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\Notas_alunos.AssemblyInfoInputs.cache
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\Notas_alunos.AssemblyInfo.cs
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\Notas_alunos.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\Notas_alunos.sourcelink.json
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\Notas_alunos.dll
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\refint\Notas_alunos.dll
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\Notas_alunos.pdb
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\Notas_alunos.genruntimeconfig.cache
+C:\Users\Bruna\Desktop\Files\C#\Notas_alunos\obj\Debug\net8.0\ref\Notas_alunos.dll
